@@ -2,7 +2,7 @@ class mango extends BaseClass {
   constructor(x, y){
 
     super(x,y,50,70);
-    this.image = loadImage("Images/mango.png");
+    this.image = loadImage("mango.png");
     this.visibility=255;
   }
    display(){
