@@ -14,10 +14,10 @@ var ground1,slingshot1;
 
 function preload()
 {
-	boyIMG=loadImage("Images/boy.png");
-	treeIMG=loadImage("Images/tree.png");
-	stoneImg=loadImage("Images/stone.png");
-	mangoIMG=loadImage("Images/mango.png");
+	boyIMG=loadImage("boy.png");
+	treeIMG=loadImage("tree.png");
+	stoneImg=loadImage("stone.png");
+	mangoIMG=loadImage("mango.png");
 }
 
 function setup() {
